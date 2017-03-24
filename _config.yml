@@ -1,2 +1,5 @@
-title: Invest产品文档
-theme: jekyll-theme-cayman
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: 

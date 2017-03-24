@@ -2,7 +2,7 @@
 layout: default
 ---
 [back](../)
-[返回文档目录](./index)
+[返回文档目录](/index)
 
 #聚宝问答模块后台
 

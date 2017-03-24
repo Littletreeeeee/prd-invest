@@ -7,4 +7,4 @@ layout: default
 | 20170324 | 1.0.0 | 朱近凡 | 增加聚宝问答模块后台产品文档 |
 
 # 文档目录
-[聚宝问答模块后台](documents/jubao_qa).
+* [聚宝问答模块后台](documents/jubao_qa)

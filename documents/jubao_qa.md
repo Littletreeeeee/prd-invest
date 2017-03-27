@@ -108,6 +108,7 @@ layout: default
 ![问答编辑页面](../resource/jubaoqa-editing.png)
 
 2. 标签点选交互  
+  
 ![标签交互](../resource/jubaoqa-editing-tags1.png)
 
 3. 标签下拉列表  

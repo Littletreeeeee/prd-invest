@@ -105,6 +105,7 @@ layout: default
 
 ### 4.3 界面原型
 1. 问答编辑页面  
+
 ![问答编辑页面](../resource/jubaoqa-editing.png)
 
 2. 标签点选交互  
@@ -112,4 +113,5 @@ layout: default
 ![标签交互](../resource/jubaoqa-editing-tags1.png)
 
 3. 标签下拉列表  
+  
 ![标签下拉列表](../resource/jubaoqa-editing-tags2.png)

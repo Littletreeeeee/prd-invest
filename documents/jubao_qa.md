@@ -104,11 +104,11 @@ layout: default
 6. 编辑界面升级：目前弹窗式的去重检测提醒，由于遮挡了编辑框，影响编辑效率，可能需要做对应的优化。
 
 ### 4.3 界面原型
-1. 问答编辑页面
+1. 问答编辑页面  
 ![问答编辑页面](../resource/jubaoqa-editing.png)
 
-2. 标签点选交互
+2. 标签点选交互  
 ![标签交互](../resource/jubaoqa-editing-tags1.png)
 
-3. 标签下拉列表
+3. 标签下拉列表  
 ![标签下拉列表](../resource/jubaoqa-editing-tags2.png)

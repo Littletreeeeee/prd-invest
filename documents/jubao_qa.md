@@ -31,7 +31,7 @@ layout: default
 | origin_url | 问题的唯一id |  |
 | origin_date | 数据清洗或传输给一财的时间，仅填充required字段，不一定作为导入时的发帖时间 |  |
 | compose_organization | 标记外部或内部来源，外部爬取标记，如深圳交易所互动易、内部优质观点转问答 |  |
-| origin_website | 同compose_organization |  |
+| origin_website | 稿件处理类型：待清洗问答、待补充问题、待回答 |  |
 | stock_codes | 对应产品id，如000001.SZ或000001.OF，与资讯相同，类型为array | 可由编辑修改 |
 | tags | 业务标，类型为array | 可由编辑修改  |
 | keywords | 补充标（算法标，类型为array） | 可由编辑修改 |
@@ -108,7 +108,7 @@ layout: default
 ![问答编辑页面](../resource/jubaoqa-editing.png)
 
 2. 标签点选交互  
-  
+
 ![标签交互](../resource/jubaoqa-editing-tags1.png)
 
 3. 标签下拉列表  

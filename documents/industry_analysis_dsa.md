@@ -3,12 +3,6 @@ layout: default
 ---
 [返回文档目录](../)
 
-# 行业调研列表
-
-<big>[智能投顾](#智能投顾数字化资产配置)  </big>  
-<big>[彭博](#彭博)  </big>  
-<big>[FinTech](#FinTech)  </big>  
-
 
 ## 智能投顾（数字化资产配置）
 * [背景](#背景)
@@ -89,7 +83,3 @@ layout: default
 
 [什么是智能投顾？--知乎](https://www.zhihu.com/question/46379749?from=profile_question_card)  
 [数字化资产配置报告](https://www.pintec.com/public/pdf/lj_report_161030.pdf)
-
-## 彭博
-
-## FinTech

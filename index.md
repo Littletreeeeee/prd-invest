@@ -10,4 +10,4 @@ layout: default
 * [聚宝问答模块后台](documents/jubao_qa)
 
 # 投研行业调查
-* [财经领域行业调查](documents/财经领域行业调查)
+* [财经领域行业调查](documents/industry_analysis)

@@ -5,9 +5,9 @@ layout: default
 
 # 行业调研列表
 
-1. <big>[智能投顾](#智能投顾数字化资产配置)  </big>
-2. [彭博](#彭博)  
-3. [FinTech](#FinTech)
+<big>[智能投顾](#智能投顾数字化资产配置)  </big>  
+<big>[彭博](#彭博)  </big>  
+<big>[FinTech](#FinTech)  </big>  
 
 
 ## 智能投顾（数字化资产配置）

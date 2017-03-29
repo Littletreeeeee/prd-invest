@@ -15,7 +15,8 @@ layout: default
 产品架构及各模块间关系：
 
 功能模块：
-* [聚宝问答模块后台](documents/jubao_qa)
+* [聚宝问答模块后台](documents/prd_invest_jubaoqa)
+* [财经数据可视化相关](documents/prd_invest_datav)
 
 &emsp;&emsp;  
 &emsp;&emsp;  

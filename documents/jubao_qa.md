@@ -86,7 +86,7 @@ layout: default
 ## 3. Invest后台操作流程
 1. 问答文件进入稿库
 2. 编辑从稿库筛选处理问答，或使用急速发稿功能批量处理稿件
-3. 编辑检测重复，问答标题、摘要、正文，匹配对应标签，发布或弃用问答
+3. 编辑检测重复，问题标题、问题描述、回答正文，匹配对应标签，发布、保持或弃用问答
 4. 对已发布的问答，编辑可做更新和下线操作
 
 ## 4. Invest对应改造内容
@@ -103,11 +103,11 @@ layout: default
 
 2.标签点选交互  
 
-![标签交互](../resource/jubao-qa-editing-tags1.png)
+![标签交互](../resource/jubao-qa-editing-tags.png)
 
 3.标签下拉列表  
 
-![标签下拉列表](../resource/jubao-qa-editing-tags2.png)
+![标签下拉列表](../resource/jubao-qa-editing-relatetags.png)
 
 
 ### 4.3 未来可能需要注意的事项

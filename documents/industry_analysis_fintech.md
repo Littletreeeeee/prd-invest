@@ -66,6 +66,10 @@ layout: default
 * Stock Tagon
 
 #### Seeking Alpha
+&emsp;&emsp;Seeking Alpha是金融领域的众包内容服务商。文章和研究涵盖了广泛的股票、资产类别、ETF和投资策略。与其他股票研究平台相反，观点由作为投资者和行业专家（买方）的贡献者提供，而不是由卖方提供。该公司报告称，它与MSN Money，CNBC，Yahoo!Finance，MarketWatch，NASDAQ，和TheStreet都有分销合作伙伴关系。
+
+&emsp;&emsp;截止2014年2月，该公司拥有300万注册用户，每月吸引800万独立用户。
+
 
 
 ### 蚂蚁金服宣布未来只做Tech，帮金融机构做好Fin
@@ -86,4 +90,6 @@ layout: default
 
 [FinTech -- wiki](https://en.wikipedia.org/wiki/Financial_technology)  
 [金融科技 -- wiki](https://zh.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80)  
-[蚂蚁向基金业开放财富号，也许放弃，才能靠近你](http://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&mid=2650270796&idx=1&sn=beb5b96f580f7239c1a0a417aa793fca&chksm=bee2becd899537db72ef0846937d62f6a936c21c212b86f8ce45d79962ab91747065f398a5dc&scene=4#wechat_redirect)
+[蚂蚁向基金业开放财富号，也许放弃，才能靠近你](http://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&mid=2650270796&idx=1&sn=beb5b96f580f7239c1a0a417aa793fca&chksm=bee2becd899537db72ef0846937d62f6a936c21c212b86f8ce45d79962ab91747065f398a5dc&scene=4#wechat_redirect)  
+[Seeking Alpha官网](https://seekingalpha.com/)  
+[Seeking Alpha -- Wikipedia](https://en.wikipedia.org/wiki/Seeking_Alpha)  

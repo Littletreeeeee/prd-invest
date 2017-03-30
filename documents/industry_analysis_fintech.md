@@ -3,6 +3,13 @@ layout: default
 ---
 [返回文档目录](../)
 
+## 目录
+
+* [介绍](#介绍)
+* [涉及的领域](#涉及的领域)
+* [金融研究领域公司调查](#金融研究领域公司调查)
+* [蚂蚁金服宣布未来只做Tech，帮金融机构做好Fin](#蚂蚁金服宣布未来只做tech帮金融机构做好fin)
+* [参考资料](#参考资料)
 
 ## FinTech
 
@@ -60,16 +67,53 @@ layout: default
 * 而智能投顾被大量应用的零售（Retail Investing）领域，美国最著名的两个平台就是Betterment 和 Wealthfront。两者从资产配置的角度，为普通投资者提供一套理财方案。智能投顾是真正能实现普惠金融的一条路径，真正的实现为普通投资者带来质优价廉的理财服务，帮助社会资金实现更高效率的运转。
 
 ### 金融研究领域公司调查
-* Seeking Alpha  
-* Coseer
-* Xignite
-* Stock Tagon
+* [Seeking Alpha（众包内容平台）](#seeking-alpha)
+* [Coseer（自然语言处理）](#coseer)
+* [Stock Tagon（投研工具）](#stocktagon)
+* [Xignite（数据API）](#xignite)
 
 #### Seeking Alpha
-&emsp;&emsp;Seeking Alpha是金融领域的众包内容服务商。文章和研究涵盖了广泛的股票、资产类别、ETF和投资策略。与其他股票研究平台相反，观点由作为投资者和行业专家（买方）的贡献者提供，而不是由卖方提供。该公司报告称，它与MSN Money，CNBC，Yahoo!Finance，MarketWatch，NASDAQ，和TheStreet都有分销合作伙伴关系。
+&emsp;&emsp;Seeking Alpha是金融领域的众包内容服务商。文章和研究涵盖了广泛的股票、资产类别、ETF和投资策略。与其他股票研究平台相反，观点由作为投资者和行业专家（买方）的贡献者提供，而不是由卖方提供。用户的文章是否被发布，由文章的质量来决定。
 
 &emsp;&emsp;截止2014年2月，该公司拥有300万注册用户，每月吸引800万独立用户。
 
+&emsp;&emsp;为什么需要Seeking Alpha这样的平台？
+* 买方（比如运营对冲基金和共同基金的客户）可能比股票分析师更深入地了解股票。
+* 华尔街的公司在覆盖小公司方面也做得不好。 最近的一项研究报告指出，55％的小公司没有被或被进行了无意义的分析报道。 但所有这些股票都有投资者对此有深入了解。
+
+&emsp;&emsp;所以Seeking Alpha的目标是投资者可以来到这里，找到优质的文章和讨论，这些信息将有助于他们做出更明智的决定。 Seeking Alpha正在努力通过众包和公开辩论来展示信息和关键问题，从而使用户可以自己做投资决策。
+
+&emsp;&emsp;**Seeking Alpha的商业模式** ：订阅产品和广告
+* 订阅产品Seeking Alpha PRO, 允许投资者提前看到文章，并可以看到超过4000支股票的文章和评论，这些是免费用户看不到的。能帮助付费用户提前发现关键事件。
+* 广告方面，Seeking Alpha的月UV超过800万，这些用户包括财务顾问、资金金立、C级高管、业主和退休人员。这些用户可能比其他财经网站的受众更富有更有影响力。
+
+#### Coseer
+&emsp;&emsp;Coseer是一家位于硅谷的创业公司，它所专门研发的战术认知计算技术，可以通过模拟人类大脑以解决复杂的商业问题。它所配备的整套由AI驱动的软件，能够处理自然语言和非结构化数据，以帮助日常的决策。
+
+&emsp;&emsp;除了可以单纯地搜索关键字之外，Coseer不仅能够审核思路、区分可靠和不可靠的数据，还能够分解问题并提供直观的解决方案。 Coseer的认知引擎自动汇集了数百万个实时数据源，数字和文本类别均涵盖其中；它的读取和综述相当人类精确度的95-98％。
+
+&emsp;&emsp;这项由AI和NLP共同驱动的软件在各个行业已得到了有广泛的应用。银行可以从数百万份文件中甄选出定制的投资更新。医院可以基于在患者记录中分散或隐藏的信息得出可供建议的治疗计划。
+
+&emsp;&emsp;Coseer能够在资源较少、时间较短的情况下完成任务。该技术是高度可定制的，拥有速成训练的特征，也就是说它能够允许企业在4-12周之内便部署好系统。它可以在云中或内部的常规硬件上进行运行，且可用于处理各种或大或小的问题。
+
+&emsp;&emsp;Coseer的产品包括：
+* CodeSeer：CoseSeer将战术认知计算应用于大型结构化数据集。它是其他Coseer产品以及我们的客户使用的基础产品。CodeSeer能够合并来自多个来源的数据，无需任何元数据; 或识别高级、反直觉的模式和见解。
+* DocSeer：DocSeer捕获并处理文档中包含的所有想法。 它通过个性化界面（如chatbot或自然语言搜索）实现与这些想法的自然交互。DocSeer基于想法实现了定制、复杂的模型，是智能过程自动化的主要引擎。
+* InfoSeer：InfoSeer可以将任何自然语言或非结构化文本结构化。 它可以回答具体问题或从任何来源寻找特定信息。 InfoSeer提取以下类型的知识：数据如名称或数字、属性及值、定义和关系、情绪，特征或同义词。
+* LongSeer：LongSeer从数百万输入中识别出可操作的见解。 这些洞察将针对对每个用户进行个性化，在每个场景中进行优先排序，并根据个人喜好进行推送。
+* RedSeer：RedSeer识别敏感信息来警告并阻止它离开企业防火墙。RedSeer可灵活实现安全策略。
+
+#### Stocktagon
+
+&emsp;&emsp;Stocktagon是一个股票市场研究工具，主要功能是梳理新闻稿，收益通知单和其他媒体和新闻信息，以帮助用户查找有关股票的相关信息。Stocktagon支持可视化公司不同维度的数据和信息，并在可视化图表上进行交互以进行深入挖掘。 可对多个搜索进行比较以发现趋势。
+
+> 注：已找不到此公司2013年之后的信息。
+
+#### Xignite
+
+&emsp;&emsp;Xignite是一家位于旧金山的云端市场数据提供商。 提供提供实时、历史和参考数据的金融Web服务API。 Xignite为移动金融应用程序，网站和前、中、后台功能提供支持服务; 也为交易所，数据供应商和金融机构的服务。
+
+&emsp;&emsp;Xignite根据需要对各种客户端进行数据过滤推送，用户可以从网络或从移动设备访问它们。
 
 
 ### 蚂蚁金服宣布未来只做Tech，帮金融机构做好Fin
@@ -91,5 +135,9 @@ layout: default
 [FinTech -- wiki](https://en.wikipedia.org/wiki/Financial_technology)  
 [金融科技 -- wiki](https://zh.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80)  
 [蚂蚁向基金业开放财富号，也许放弃，才能靠近你](http://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&mid=2650270796&idx=1&sn=beb5b96f580f7239c1a0a417aa793fca&chksm=bee2becd899537db72ef0846937d62f6a936c21c212b86f8ce45d79962ab91747065f398a5dc&scene=4#wechat_redirect)  
+[在投资、理财领域，Fintech 除了智能投顾还有哪些应用？](https://www.zhihu.com/question/56158835)  
 [Seeking Alpha官网](https://seekingalpha.com/)  
 [Seeking Alpha -- Wikipedia](https://en.wikipedia.org/wiki/Seeking_Alpha)  
+[Why the crowd likes seeking alpha, but wall street not so much](http://fleishmanhillard.com/2014/07/true/why-the-crowd-likes-seeking-alpha-but-wall-street-not-so-much/)  
+[TradeView](https://www.tradingview.com/)
+[Thinknum](https://www.thinknum.com/about)

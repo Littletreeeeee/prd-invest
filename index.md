@@ -33,5 +33,6 @@ layout: default
 * [FinTech](documents/industry_analysis_fintech)
 * [智能投顾](documents/industry_analysis_dsa)
 * [彭博](documents/industry_analysis_bloomberg)
+* [金融终端](documents/industry_analysis_terminal)
 
 大数据&可视化相关：

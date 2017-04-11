@@ -50,6 +50,7 @@ layout: default
 | 多值标签 | 取值为同种原子类型组成的列表 |
 | 多权标签 | 取值为同种原子类型组成的字典，key只能为string或string(bigint) |
 
+&emsp;&emsp;
 
 * 标签原子类型字段
 
@@ -60,6 +61,7 @@ layout: default
 | 文本标签 | 字符串原子标签 |
 | 浮点标签 | 浮点数数值原子标签 |
 
+&emsp;&emsp;
 
 * 标签形式分类样例表
 

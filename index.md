@@ -21,6 +21,23 @@ layout: default
 &emsp;&emsp;  
 &emsp;&emsp;  
 
+## CBNWeekly产品需求文档
+
+&emsp;&emsp;  
+&emsp;&emsp;
+
+## 工具使用
+
+| 日期 | 修订人 | 修订内容 |
+|:---:| :-----------: | :----------- |
+| 20170411 | 朱近凡 | 数字化资产配置报告摘要 |
+
+&emsp;&emsp;
+* [GrowingIO数据统计工具](documents/tool_usage_growingio)
+
+&emsp;&emsp;  
+&emsp;&emsp;
+
 ## 行业调查
 
 | 日期 | 修订人 | 修订内容 |

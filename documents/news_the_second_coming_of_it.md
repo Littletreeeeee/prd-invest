@@ -4,28 +4,38 @@ layout: default
 [返回文档目录](../)
 
 ## The Second Coming of IT
+>第二波IT时代
 
 #### The current wave of IT provides powerful tools to businesses while reducing the need for analysts and middle managers. But don’t expect these new applications to transform consumers’ lives anytime soon.
-
+>这一波IT时代将为企业提供强大的工具来减少对分析师和中层管理者的需求。但是离这些新型应用进入C端用户生活，还早。
 
 For a generation before we thought of “technology companies” as Google and Facebook, there was a long era of IT, or “information technology.” During this era, technology was an unglamorous industry that made businesses more effective. Consumers didn’t touch it.
+>在谷歌和Facebook之前，计算机行业处在一个较长的IT时代。在这个阶段，技术行业的目的是为企业提高效率，但是与C端用户没什么关系。
 
 I believe that machine learning and AI are bringing us to a second IT phase, where the most exciting developments will become powerful tools for businesses but, in most cases, little more than promise for consumers.
+>作者认为机器学习和人工智能将带我们进入第二波IT时代。这个阶段行业内会发展出强大的企业工具，而不是面向消费者的产品。
 
 Someday the wheel will turn again and we will enter a second pure technology era where breakthrough new consumer services will emerge. But we need to walk before we run—and walking means an era of IT before we get to the next wave of what we have come to know as tech.
+>之后某个时候，我们可能会进入第二个纯技术时代，涌现出颠覆性的消费者基本产品服务。但是我们首先需要经历IT时代。
 
 The tools for managing data now available to businesses have improved at a staggering pace.
+>目前，数据管理工具正在以惊人的速度发展着。
 
 **Amazon’s Redshift for data storage, visualization tools like Periscope, and machine learning toolkits like Google’s TensorFlow** allow businesses—even small ones—to store, analyze and make decisions that weren’t possible before without massive capital investment. Amazon, Google, IBM, Microsoft and Salesforce are in an all-out, multi-front war to **help businesses optimize themselves in amazing ways.**
+>数据存储工具如亚马逊的Redshift，可视化工具如Periscope，机器学习工具如谷歌的TensorFlow，使得小型企业不需要大量的成本投入下，也可以实现数据的存储、分析和决策。互联网公司们都在努力帮助企业去做优化。
 
 Ten years ago, I worked for a major credit card company on a consulting project analyzing millions of rows of credit card data. The tools we had then versus the tools that are widely available now are night and day. Today, I can do the same type of analysis my old consulting firm charged hundreds of thousands if not millions of dollars for in just a few moments.
+>之前做数据分析非常复杂费力。如今，同样的数据分析工作可以通过简单的几步完成。
 
 This isn’t a new story. Companies have been telling versions of this narrative of displacement around everything from medicine to finance for a generation. But in 2017, these tools are available and having practical impact to an unprecedented degree.
+>之前所有公司也都在讨论在财经和医药领域技术对人力的替代。但是在2017年，这些工具正在成为现实，产生实际的影响。
 
 ### Waiting for Prime Time
 If you had waited with bated breath for pure direct-to-consumer technology companies at the beginning of the first IT wave, you would have turned blue long before you were ultimately vindicated. I am pretty certain we find ourselves once again in the same position.
+>在IT时代期待C级产品是会令人失望的。在第二波IT时代也一样。
 
 It is one thing for businesses to get leverage in decision-making through access to data, compute and good algorithms. It is quite another for those technologies to be fully developed enough to enter prime-time consumer use.
+>通过数据、计算、算法为商业决策提供帮助是一回事。使技术成熟到可以让C端用户使用，是另一回事。
 
 Cars are perhaps the most obvious example. Technology in cars will soon be able to drive us—in some conditions—from point A to B and help keep us safer. The coupling of man and machine is great. But I would strongly argue we are still eons away from cars reliably and consistently driving themselves without human operators. There are entire areas ranging from pedestrian judgment and fleet management that are still no more than theoretical exercises.
 

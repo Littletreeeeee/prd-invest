@@ -9,13 +9,17 @@ layout: default
 #### The current wave of IT provides powerful tools to businesses while reducing the need for analysts and middle managers. But don’t expect these new applications to transform consumers’ lives anytime soon.
 >这一波IT时代将为企业提供强大的工具来减少对分析师和中层管理者的需求。但是离这些新型应用进入C端用户生活，还早。
 
+&emsp;&emsp; 
 
 For a generation before we thought of “technology companies” as Google and Facebook, there was a long era of IT, or “information technology.” During this era, technology was an unglamorous industry that made businesses more effective. Consumers didn’t touch it.
 >在谷歌和Facebook之前，计算机行业处在一个较长的IT时代。在这个阶段，技术行业的目的是为企业提高效率，但是与C端用户没什么关系。
 
+&emsp;&emsp;
 
 I believe that machine learning and AI are bringing us to a second IT phase, where the most exciting developments will become powerful tools for businesses but, in most cases, little more than promise for consumers.
 >作者认为机器学习和人工智能将带我们进入第二波IT时代。这个阶段行业内会发展出强大的企业工具，而不是面向消费者的产品。
+
+&emsp;&emsp;
 
 Someday the wheel will turn again and we will enter a second pure technology era where breakthrough new consumer services will emerge. But we need to walk before we run—and walking means an era of IT before we get to the next wave of what we have come to know as tech.
 >之后某个时候，我们可能会进入第二个纯技术时代，涌现出颠覆性的消费者基本产品服务。但是我们首先需要经历IT时代。
@@ -40,7 +44,7 @@ It is one thing for businesses to get leverage in decision-making through access
 >通过数据、计算、算法为商业决策提供帮助是一回事。使技术成熟到可以让C端用户使用，是另一回事。
 
 Cars are perhaps the most obvious example. Technology in cars will soon be able to drive us—in some conditions—from point A to B and help keep us safer. The coupling of man and machine is great. But I would strongly argue we are still eons away from cars reliably and consistently driving themselves without human operators. There are entire areas ranging from pedestrian judgment and fleet management that are still no more than theoretical exercises.
->
+>以汽车举个例子。汽车技术很快就使得人们具备从一个地方快速到达另一个地方的能力。专业司机和汽车成为一个良好的组合。但是如果要将这项能力提供给所有的C端用户，对于那些不会开车的人，目前技术是做不到的。
 
 
 Cars are just one example. Voice recognition is mildly passable most of the time. Some of the translation work Google is doing is impressive. Recently I have been blown away by some of the simple but powerful applications taking hold in Google Photos. And, it is impressive that cars on the highway can drive themselves in certain situations.

@@ -68,7 +68,7 @@ But the reality is that none of these applications transform consumers’ experi
 &emsp;&emsp;
 
 There is nothing wrong with this. It is necessary and good for people to be working on these things. But we need to recognize that tools good enough to couple with human managers and operators aren’t necessarily good enough to directly interface with users.
->我们需要知道，可以令专业操作者使用良好的工具，并不足够优秀到和可以使得普通消费者良好使用的工具。
+>我们需要知道，可以令专业操作者使用良好的工具，并不足够优秀到可以使普通消费者良好使用。
 
 &emsp;&emsp;
 

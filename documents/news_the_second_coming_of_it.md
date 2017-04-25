@@ -70,6 +70,8 @@ But the reality is that none of these applications transform consumers’ experi
 There is nothing wrong with this. It is necessary and good for people to be working on these things. But we need to recognize that tools good enough to couple with human managers and operators aren’t necessarily good enough to directly interface with users.
 >我们需要知道，可以令专业操作者使用良好的工具，并不足够优秀到和可以使得普通消费者良好使用的工具。
 
+&emsp;&emsp;
+
 It is one thing for businesses to get leverage in decision-making through access to data, compute and good algorithms. It is quite another for those technologies to be fully developed enough to enter prime-time consumer use.
 >通过数据、计算、算法为商业决策提供帮助是一回事。使技术成熟到可以让C端用户使用，是另一回事。
 

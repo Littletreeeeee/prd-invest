@@ -73,5 +73,16 @@ layout: default
 &emsp;&emsp;  
 * [标签分类理论](documents/theory_analysis_tags_classification)
 
+&emsp;&emsp;
+&emsp;&emsp;
+
 ## 行业新闻&观点整理
+
+| 日期 | 修订人 | 修订内容 |
+|:---:| :-----------: | :----------- |
+| 20170425 | 朱近凡 | The Second Coming of IT |
+
+&emsp;&emsp;
+&emsp;&emsp; 
+
 * [The Second Coming of IT](documents/news_the_second_coming_of_it)

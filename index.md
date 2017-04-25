@@ -57,6 +57,11 @@ layout: default
 大数据&可视化相关：
 
 &emsp;&emsp;  
+
+* [Periscope Data](documents/industry_analysis_periscope_data)
+* [BDP](documents/industry_analysis_bdp)
+
+&emsp;&emsp;  
 &emsp;&emsp;  
 
 ## 理论调研
@@ -67,3 +72,6 @@ layout: default
 
 &emsp;&emsp;  
 * [标签分类理论](documents/theory_analysis_tags_classification)
+
+## 行业新闻&观点整理
+* [The Second Coming of IT](documents/news_the_second_coming_of_it)

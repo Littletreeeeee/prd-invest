@@ -80,9 +80,11 @@ layout: default
 
 | 日期 | 修订人 | 修订内容 |
 |:---:| :-----------: | :----------- |
+| 20170426 | 朱近凡 | Facebook Testing News Discovery Options |
 | 20170425 | 朱近凡 | The Second Coming of IT |
 
 &emsp;&emsp;
-&emsp;&emsp; 
+&emsp;&emsp;
 
 * [The Second Coming of IT](documents/news_the_second_coming_of_it)
+* [Facebook Testing News Discovery Options](documents/news_facebook_testing_news_discovery)

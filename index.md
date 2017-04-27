@@ -58,6 +58,7 @@ layout: default
 
 &emsp;&emsp;  
 
+* [商业智能软件](documents/industry_analysis_bi_tools)
 * [Periscope Data](documents/industry_analysis_periscope_data)
 * [BDP](documents/industry_analysis_bdp)
 

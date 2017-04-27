@@ -183,16 +183,16 @@ Since I deal with procurement and supply chain management, I need to know which 
 
 ### Features:
 
-Data Access Control
-Database Joints
-CSV files import
-Data Mining
-Automatic Cache Data
-Advanced SQL Editor
-Quick Chart Creation
-Pivot Tables
-Dashboards
-Custom Filters
-Email Reports
-Sharing
-Collaboration
+* Data Access Control
+* Database Joints
+* CSV files import
+* Data Mining
+* Automatic Cache Data
+* Advanced SQL Editor
+* Quick Chart Creation
+* Pivot Tables
+* Dashboards
+* Custom Filters
+* Email Reports
+* Sharing
+* Collaboration

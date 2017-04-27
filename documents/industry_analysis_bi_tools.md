@@ -10,58 +10,95 @@ Business Intelligence Software (or BI software) is a class of computer applicati
 >处理分析企业数据，转化为洞察，帮助明白业务是否健康。BI软件使用多样的方法和维度去测量、对比、管理商业指标，从而判断每个公司的优势和劣势。主要功能包括：发现数据、管理数据、和数据报告，还有些产品会衡量功能性和员工绩效。
 
 The goal of business intelligence programs is to allow for the easy and deeper interpretation of large volumes of business data. Finding out opportunities to grow and adopting effective strategies based on these deep, analytical insights can provide businesses a huge competitive market edge over competitors, aside from long-term stability.
+>目的是支持方便且深入地对海量商业数据进行解读。
 
 ## Targeted Businesses
+>客户类型
+
 **Departmental buyers and business users:** These buyers opt for small data-discovery apps and BI tools over big BI systems. They look for ease-of-use and fast deployment, and do not worry much about robust functionality and integration. These are normally business users and not IT staff.
+>部门客户和商业用户：相比于大型BI系统，这些客户会选择小型的数据洞察应用。希望使用简便，部署快速。
 
 **IT buyers:** These are traditional buyers who look for in-depth functionality and integration with the other business apps they use. For these buyers, integration across different units and entities is more vital than ease of use.
+>IT买家：一般是传统买家，需要深度强大的功能，同时需要和他们使用的其他商业应用对接。
 
 ## Type of Business Intelligence Software
 
 Business intelligence programs can be deployed in different ways. These include:
+>从部署方式上看
 
-* On-premise deployment: In-house product installation using equipment owned or leased by the company. The advantage is you are assured of data security.
+  * On-premise deployment: In-house product installation using equipment owned or leased by the company. The advantage is you are assured of data security.
+  >内部部署
 
-* Cloud implementation: Public cloud, private cloud, or a hybrid cloud. The benefits are you don’t have to download any software, or worry about upgrades and maintenance.
+  * Cloud implementation: Public cloud, private cloud, or a hybrid cloud. The benefits are you don’t have to download any software, or worry about upgrades and maintenance.
+  >云端部署
 
-* Data Management Tools
-Include the following features:
+Data Management Tools Include the following features:
+>数据管理工具功能分为
 
   * Data quality management –  Helps companies maintain clean, error-free, and standardized data. Standardization is essential for BI implementations that include data from multiple sources.
-  * Extract, transform and load (ETL) – Gathers data from outside sources, changes it, and then loads it into the target system (a warehouse or database).
+  >数据质量管理 - 保障数据的干净、无错，结构化。
 
-* Data Discovery Applications
-List of features includes:
+  * Extract, transform and load (ETL) – Gathers data from outside sources, changes it, and then loads it into the target system (a warehouse or database).
+  >ETL - 收集外部数据，转换并保存在目标系统中。
+
+Data Discovery Applications. List of features includes:
+>数据洞察工具功能分为
 
   * Data mining – Sifts through vast amounts of data to identify new patterns.
-  * Online analytical processing (OLAP) – Enables users to speedily evaluate multidimensional data from various perspectives.
-  * Predictive analytics – Evaluates current and historical data to make forecasts about future opportunities and risks.
-  * Semantic and text analytics – Extracts and interprets huge volumes of text to spot patterns, sentiment, and relationships.
+  >数据挖掘 - 从大量数据中发现新的模式规律
 
-* Reporting Tools
-Features include:
+  * Online analytical processing (OLAP) – Enables users to speedily evaluate multidimensional data from various perspectives.
+  >在线分析处理
+
+  * Predictive analytics – Evaluates current and historical data to make forecasts about future opportunities and risks.
+  >预测分析
+
+  * Semantic and text analytics – Extracts and interprets huge volumes of text to spot patterns, sentiment, and relationships.
+  >语义分析
+
+Reporting Tools. Features include:
+>报告工具功能包括
 
   * Visualizations – Helps users create sophisticated graphical representations of data using simple user interfaces.
+  >数据可视化
+
   * Dashboards – Dashboards highlight key performance indicators (KPIs) that help managers focus on important metrics.
+  >Dashboard
+
   * Report writers – Allows users to design and create custom reports.
+  >报告编辑
+
   * Scorecarding – Scorecards give a numerical weight to performance and help to map progress towards objectives.
+  >指标卡
 
 ## Key Features of Business Intelligence Software
+>BI软件的一些关键功能
 
 The most typical features of a business intelligence program include:
+>BI软件主要功能包括：
 
 * Experimenting to look at previous decisions (A/B testing or multivariate testing)
+>查看历史决策效果
+
 * Forecasting future business results (predictive modeling or predictive analytics)
+>预测未来商业结果
+
 * Extrapolating business data to see new patterns and relationships (data mining)
+>发现数据间的模式和关系
+
 * Explaining the causes why a result or outcome has happened (statistical analysis or quantitative analysis)
+>找到结果的原因
 
 ### Data Management
 A major consideration when selecting business intelligence programs is to check how capable a tool is in giving complex business data relevant meaning and context for your business to understand the entire situation. It means the tool you should choose should be able to make the raw and unstructured business data “analytic-ready” with its data manipulation, extraction, query, as well as business logic features.
+>数据管理。评价一个BI软件的重要方面是可以把混乱未结构化的数据，转化为可分析的数据。
 
 ### Reporting
 When choosing business intelligence, check out their reporting features as claimed by the solution’s vendor or provider. Can the tool really create and distribute business data in visually informative charts, tables, and in a specified or desired page layout. Can the tool also provide you with not just fundamental reporting but even advanced and more meaningful reporting and presentation features?
+>需要看软件的报告功能能否满足你的展示要求
 
 Features such as associative relationship displays, three dimensional images, and pivot-like, easy-to-configure interfaces should be some of the top considerations in your mind. Do these features show up on a mobile platform, particularly when you are showing these data outside your work?
+>各种类型的分析图表是考虑的重点。以及是否支持多平台。
 
 ### Architecture
 Does the business intelligence tool support scalable methods for diverse and complex data sets? For instance, if your business has a huge number of data sets that are at the same time complicated, you might consider buying a program that can effectively handle them and scales to large numbers of data sets.

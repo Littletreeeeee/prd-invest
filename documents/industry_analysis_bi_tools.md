@@ -171,6 +171,8 @@ To help you address to different types of queries more efficiently, Periscope Da
 
 Another good thing about this software is that all your team can access it without any additional charges. There is no limit to member access which helps you to keep all your team members in loop and updated. Another advantage of this unlimited access is that transparency is maintained across all your departments so there are lesser chances of mistakes.
 
+![periscope1](../resource/bi_periscope1.png)
+
 ### Comments:
 
 Periscope helps to generate or create visual chart and graphs for presentation to the sales team. You do not have to be an expert programmer to make the best use of this tool. You can learn how to code using the learning sessions and free tutorials at your disposal. The idea is to be able to customize those graphs and charts such that you get the results you need and it becomes easy when you are presenting the results. Also, you can export files from excel spreadsheets so that you can analyze them and present them into a report in the form of graphs or charts for easy understanding.

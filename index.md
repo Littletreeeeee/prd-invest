@@ -38,7 +38,7 @@ layout: default
 &emsp;&emsp;  
 &emsp;&emsp;
 
-## 行业调查
+## 行业情况
 
 | 日期 | 修订人 | 修订内容 |
 |:---:| :-----------: | :----------- |
@@ -59,8 +59,13 @@ layout: default
 &emsp;&emsp;  
 
 * [商业智能软件](documents/industry_analysis_bi_tools)
+* [数据部市场组讨论纪要](documents/discussion_data_analysis_marketing)
 * [Periscope Data](documents/industry_analysis_periscope_data)
 * [BDP](documents/industry_analysis_bdp)
+
+媒体相关
+
+* [微博运营分享](documents/sharing_weibo_operation)
 
 &emsp;&emsp;  
 &emsp;&emsp;  

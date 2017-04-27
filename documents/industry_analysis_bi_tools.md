@@ -133,14 +133,24 @@ The tool’s capacity to analyze and report historical data enables you to proje
 Sisense is a business intelligence platform that lets users join, analyze, and picture out information they require to make better and more intelligent business decisions and craft out workable plans and strategies.
 
 With Sisense, users can unify all the data they ever need and want into visually appealing dashboards via a drag and drop user interface. Sisense basically allows users to turn data into highly valuable insights and then share them with colleagues, business partners, and clients  via interactive dashboards.
+>可通过拖拽界面将数据串联归一。
 
 ### Advantages
 
 * Gather all your information from all your sources and unify them into a single, accessible repository.
+>将各种源数据统一化管理
+
 * Produce rich and intelligent analysis using robust visual reports without going through the hassle of preparation.
+>丰富智能的可视化
+
 * Easily share your insights with your team, partners, and clients.
+>内外分享
+
 * Easy to use interface allows non-techies to quickly adapt and get acquainted with the system.
+>界面友好
+
 * Very fast system as it maximizes the potential of 64-bit computer, multi-core CPUs and parallelization capabilities.
+>查询迅速
 
 ![sisense1](../resource/bi_sisense1.png)
 ![sisense2](../resource/bi_sisense2.png)

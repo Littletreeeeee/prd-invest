@@ -102,25 +102,32 @@ Features such as associative relationship displays, three dimensional images, an
 
 ### Architecture
 Does the business intelligence tool support scalable methods for diverse and complex data sets? For instance, if your business has a huge number of data sets that are at the same time complicated, you might consider buying a program that can effectively handle them and scales to large numbers of data sets.
+>架构是否支持灵活地处理复杂的大规模数据
 
 Check if the tool is designed using a single code base or if it offers solutions compiled from various products that are developed independently. Check if the tool has a quick development cycle, provides your business tightly integrated solutions, and offers amazing user experience.
+>对接、搭建是否方便
 
 Can the tool be embedded with the information technology systems you are already using? Does it provide you with solid data security? Can the tool restrict business data view and functionality to a select number of users or user groups?
+>能否嵌入客户自有的信息系统，信息安全问题，账户管理问题
 
 Does the tool provide you with consistent data backups? If it isn’t, then your business data might get leaked or lost when serious technical glitches happen.
 
 ## Benefits of BI Software
 ### Ability to integrate information from different business systems
 Strategic business insight generally needs data across various systems. For example, operational results of your company will need a financial perspective. Therefore, your business intelligence software solution should have the capacity to quickly and dynamically integrate information from different sources so you will get answers to a number of business questions.
+>整合各个源的数据的能力
 
 ### Outstanding reporting and analysis
 When looking at programs, always remember that the solution should offer you more knowledge about complex trends and views in your company. Do not stick with a business intelligence software application that can merely report the business data it mined. You should look for a tool that offers you an explorable capacity, letting you to understand different actions or strategies you can take to predict different scenarios and look for the best ways to achieve success.
+>报告和分析能力
 
 ### Historical analysis and reporting
 Ideally, the business intelligence program you should invest in is one that will be able to give you a deeper insight into the company’s overall performance over time and the causes for that positive (or negative) performance. Successful decision-making, in general, needs to have a thorough and critical understanding of the growth of your company over the years and the reasons behind it. In short, your program should have the capacity to map and analyze historical data that may be complex over time, even years. This means you should also get a tool that has the capacity to extract, manipulate, and understand possibly a lot of information. In a lot of companies, millions of database entries are a normal thing.
+>历史数据的分析和报告
 
 ### Future projection and forecasting
 The tool’s capacity to analyze and report historical data enables you to project business findings into the future. It will enable you to look at present opportunities and forecast the next possible steps for your company. The ability to forecast and project scenarios in the future should always be among your top factors when it comes to success.
+>未来情况的预测
 
 ## Sisense
 Sisense is a business intelligence platform that lets users join, analyze, and picture out information they require to make better and more intelligent business decisions and craft out workable plans and strategies.

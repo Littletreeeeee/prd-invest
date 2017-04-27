@@ -98,6 +98,12 @@ With Sisense, users can unify all the data they ever need and want into visually
 * Easy to use interface allows non-techies to quickly adapt and get acquainted with the system.
 * Very fast system as it maximizes the potential of 64-bit computer, multi-core CPUs and parallelization capabilities.
 
+![sisense1](../resource/bi_sisense1.png)
+![sisense2](../resource/bi_sisense2.png)
+![sisense3](../resource/bi_sisense3.png)
+![sisense4](../resource/bi_sisense4.png)
+![sisense5](../resource/bi_sisense5.png)
+
 ## GoodData
 
 GoodData is a company that believes that data is for everyone, and everyone should therefore be able to base business decisions on actionable information. When people are given access to relevant data, GoodData believes, they will innovate and grow their business, but most of all get to know the customers they are working with.

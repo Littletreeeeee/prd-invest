@@ -22,6 +22,11 @@ layout: default
 &emsp;&emsp;  
 
 ## CBNWeekly产品需求文档
+| 日期 | 修订人 | 修订内容 |
+|:---:| :-----------: | :----------- |
+| 20170504 | 朱近凡 | 20170504周刊APP迭代需求文档（ios3.0.8/android3.0.4） |  
+
+* [20170504周刊APP迭代需求文档（ios3.0.8/android3.0.4）](documents/prd_weekly_iteration_20170504)
 
 &emsp;&emsp;  
 &emsp;&emsp;

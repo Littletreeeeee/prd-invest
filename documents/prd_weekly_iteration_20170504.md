@@ -32,11 +32,11 @@ layout: default
   ![信息流杂志文章时间阅读时长](../resource/weekly-20170504-feedmagazine.png)
 
 * 信息流中专题推荐的阅读时长数据
+> 注：这里的阅读时长是专题下文章的总阅读时长  
 
   ![信息流专题推荐阅读时长](../resource/weekly-20170504-feedtopic.png)
 
 * 专题文章列表的时间及阅读时长数据展示
-> 注：这里的阅读时长是专题下文章的总阅读时长  
 
   ![专题文章列表时间阅读时长](../resource/weekly-20170504-topicarticle.png)
 

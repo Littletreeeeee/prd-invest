@@ -55,17 +55,16 @@ layout: default
 * [数字化资产配置报告摘要](documents/industry_analysis_digital_asset_alloc_repo)
 
 大数据&可视化相关：
-
-&emsp;&emsp;  
-
 * [商业智能软件](documents/industry_analysis_bi_tools)
 * [数据部市场组讨论纪要](documents/discussion_data_analysis_marketing)
 * [Periscope Data](documents/industry_analysis_periscope_data)
 * [BDP](documents/industry_analysis_bdp)
 
 媒体相关
-
 * [微博运营分享](documents/sharing_weibo_operation)
+
+协作工具相关
+* [Basecamp](documents/product_analysis_basecamp)
 
 &emsp;&emsp;  
 &emsp;&emsp;  

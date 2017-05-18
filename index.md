@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-Testing
 
 ## Invest产品需求文档
 

@@ -16,6 +16,8 @@ layout: default
 功能模块：
 * [聚宝问答模块后台](documents/prd_invest_jubaoqa)
 * [财经数据可视化相关](documents/prd_invest_datav)
+* [新增栏目流程](documents/prd_invest_add_columns)
+* [注意事项](documents/prd_invest_notice)
 
 &emsp;&emsp;  
 &emsp;&emsp;  

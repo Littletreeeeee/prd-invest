@@ -18,10 +18,6 @@ layout: default
 
 ### 1.在admin后台 **输出栏目** 页面添加一个栏目
 
-![输出栏目列表](../resource/add_columns_list.png)  
-
-![栏目添加](../resource/add_columns_input.png)  
-
 输入内容说明：
 
 | 字段名 | 说明 | 是否必填 | 注意 |
@@ -34,6 +30,10 @@ layout: default
 | Old Version | 旧版栏目 | 否 | 前端会在栏目按钮中以（XX）跟在栏目名称后面 |
 | Active | 是否启用 | 是 | 不要删除栏目，尽量用设为false的方式 |
 | Team | 使用团队 | 是 | 使用此栏目的团队，目前有dtcj_invest和dtcj_uc |
+
+![输出栏目列表](../resource/add_columns_list.png)  
+
+![栏目添加](../resource/add_columns_input.png)  
 
 ### 2.在客户输出栏目中增加新增的栏目
 

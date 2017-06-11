@@ -31,7 +31,9 @@ layout: default
 
 &emsp;&emsp;  
 
-* [20170504周刊APP迭代需求文档（ios3.0.8/android3.0.4）](documents/prd_weekly_iteration_20170504)
+* [20170504周刊APP迭代需求文档（ios3.0.8/android3.0.4）](documents/prd_weekly_app_iteration_20170504)
+* [20170612周刊APP迭代需求文档（ios3.0.9/android3.0.5）](documents/prd_weekly_app_iteration_20170612)
+
 
 &emsp;&emsp;  
 &emsp;&emsp;

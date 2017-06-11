@@ -15,6 +15,7 @@ layout: default
 
 功能模块：
 * [聚宝问答模块后台](documents/prd_invest_jubaoqa)
+* [绝对值资讯流-唯品会](documents/prd_absovalue_vipshop)
 * [财经数据可视化相关](documents/prd_invest_datav)
 * [新增栏目流程](documents/prd_invest_add_columns)
 * [注意事项](documents/prd_invest_notice)
@@ -117,3 +118,4 @@ layout: default
 
 * [The Second Coming of IT](documents/news_the_second_coming_of_it)
 * [Facebook Testing News Discovery Options](documents/news_facebook_testing_news_discovery)
+* [Whats Next in the Business of News](documents/news_whats_next_in_the_business_of_news.md)

@@ -36,6 +36,7 @@ layout: default
 4. 接口通讯协议支持HTTPS短连接的通讯协议。消息内容以JSON字符串的方式进行传输。
 
 #### 接口信息
+
 |信息|描述|
 |:---:| :----------- |
 |URL| https://jr-api.vip.com/common/tips |
@@ -52,14 +53,17 @@ layout: default
 5. 生成的API signature不再通过URL传输，而是通过HTTP Authorization header传输，格式示例为: Authorization: OAuth api_sign=9e50918172ecc240ec76eca88be694ed
 
 举例：
-请求参数 api_key = 24415b921531551cb2ba756b885ce783&c=yyy &b=xxx &d=zzz&reqTime=137131201
+
+```
+api_key = 24415b921531551cb2ba756b885ce783&c=yyy &b=xxx &d=zzz&reqTime=137131201  
 api_secret = 123
 
 text A = 24415b921531551cb2ba756b885ce783xxxyyyzzz137131201  
-text B= 24415b921531551cb2ba756b885ce783xxxyyyzzz137131201123  
+text B = 24415b921531551cb2ba756b885ce783xxxyyyzzz137131201123  
 signature = Md5(text B)   = 9e50918172ecc240ec76eca88be694ed  
-key为 80008000001  
-secret 为 1c27bf30a5b149ff81bc3eddd5a4db4a  
+key = 80008000001  
+secret = 1c27bf30a5b149ff81bc3eddd5a4db4a  
+```
 
 #### 返回参数
 

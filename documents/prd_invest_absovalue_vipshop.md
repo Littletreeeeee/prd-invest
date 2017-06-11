@@ -10,6 +10,7 @@ layout: default
 ### 首页头条推送
 
 必须字段包括：
+
 |字段|字段名称|字段类型|说明|
 |:---:| :-----------: | :-----------: | :----------- |
 |apikey|密钥|String||
@@ -69,6 +70,7 @@ secret 为 1c27bf30a5b149ff81bc3eddd5a4db4a
 |信息|message|String(100)|返回提示|Y|
 |返回数据|results|JSON|返回参数，包括请求协议参数|Y|
 
+
 |返回|描述|
 |:---:| :----------- |
 |200| 正常 |
@@ -79,6 +81,7 @@ secret 为 1c27bf30a5b149ff81bc3eddd5a4db4a
 
 #### 返回示例
 
+'
   { 
     "resultCode": "200",
     "results": {
@@ -86,3 +89,4 @@ secret 为 1c27bf30a5b149ff81bc3eddd5a4db4a
     "message": "tips上传成功",
     "success": true 
   }
+'

@@ -32,8 +32,11 @@ layout: default
 
 &emsp;&emsp;  
 
-* [20170504周刊APP迭代需求文档（ios3.0.8/android3.0.4）](documents/prd_weekly_app_iteration_20170504)
+* [20170702周刊CMS迭代需求文档](documents/prd_weekly_cms_iteration_20170702)
+* [20170702周刊网站迭代需求文档](documents/prd_weekly_site_iteration_20170702)
+* [20170702周刊分享页迭代需求文档](documents/prd_weekly_share_iteration_20170702)
 * [20170612周刊APP迭代需求文档（ios3.0.9/android3.0.5）](documents/prd_weekly_app_iteration_20170612)
+* [20170504周刊APP迭代需求文档（ios3.0.8/android3.0.4）](documents/prd_weekly_app_iteration_20170504)
 
 
 &emsp;&emsp;  

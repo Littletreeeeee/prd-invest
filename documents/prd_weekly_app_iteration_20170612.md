@@ -474,10 +474,12 @@ layout: default
 
 ### 4. 会员有效期&会员徽章
 
+注意会员徽章会显示在个人中心和评论的用户头像中，两个地方徽章显示位置不同。
+
 设计稿：
 
-[会员有效期&会员徽章](https://app.zeplin.io/project/57c9165e2ccadd3f6341c8a3/screen/59391f1c142f7a080ae740f8)
-
+[个人中心-会员有效期&会员徽章](https://app.zeplin.io/project/57c9165e2ccadd3f6341c8a3/screen/59391f1c142f7a080ae740f8)
+[文章详情-评论-会员徽章](https://app.zeplin.io/project/57c9165e2ccadd3f6341c8a3/screen/57c9355d88c28c1f383c0a34)
 
 ### 5. 购买记录
 

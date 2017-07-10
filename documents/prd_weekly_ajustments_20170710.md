@@ -51,6 +51,9 @@ layout: default
 
 文案内容为：周刊杂志会员，可享受单行本优惠价哦
 
+对应设计稿：
+[会员气泡](https://app.zeplin.io/project/57c9165e2ccadd3f6341c8a3/screen/59391e767688a44d43c1a9bf)
+
 ### 2. 尺寸调整或确认
 
 * 单行本封面 （比例 4:3；居中截取；建议尺寸1200*900px）

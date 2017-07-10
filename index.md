@@ -32,6 +32,7 @@ layout: default
 
 &emsp;&emsp;  
 
+* [20170710周刊迭代整体待调整点](documents/prd_weekly_ajustments_20170710)
 * [20170702周刊CMS迭代需求文档](documents/prd_weekly_cms_iteration_20170702)
 * [20170702周刊网站迭代需求文档](documents/prd_weekly_site_iteration_20170702)
 * [20170702周刊分享页迭代需求文档](documents/prd_weekly_share_iteration_20170702)

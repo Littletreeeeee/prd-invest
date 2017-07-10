@@ -80,7 +80,7 @@ layout: default
   * [相关文章推荐](https://app.zeplin.io/project/57c9165e2ccadd3f6341c8a3/screen/57c9355d88c28c1f383c0a34)
   * [喜欢的文章](https://app.zeplin.io/project/57c9165e2ccadd3f6341c8a3/screen/593e5af18c10c357f5cd42c0)
 
-* CMS中，单行本模块、首页焦点图配置、单行本焦点图配置，文案调整为“单行本”
+* CMS中，单行本模块、首页焦点图配置、单行本焦点图配置、单行本的推送，文案调整为“单行本”
 
 ### 4. 样式调整
 

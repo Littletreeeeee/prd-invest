@@ -84,5 +84,11 @@ layout: default
 
 ### 4. 样式调整
 
-* 网站、APP单行本说明页，推荐语样式调整（待周刊设计确认）
-* 试读文章、无权限单行本文章，底部悬浮引导样式调整（待周刊设计确认）
+* 网站、APP单行本说明页、分享页单行本说明页，推荐语样式调整，删除下方引号
+  * [网站-单行本说明页-推荐语](https://app.zeplin.io/project/57fe0db25a50ccf660d5bd6d/screen/5955bd1e941db3496de42ef5)
+  * [分享页-单行本说明页-推荐语](https://app.zeplin.io/project/57fe0db25a50ccf660d5bd6d/screen/5955be19e8f435965a439bb5)
+  * [APP-单行本说明页-推荐语](https://app.zeplin.io/project/57c9165e2ccadd3f6341c8a3/screen/59391e767688a44d43c1a9bf)
+
+* APP试读文章、无权限单行本文章；分享页试读文章，底部悬浮引导样式调整
+  * [APP-无权限单行本文章、单行本试读文章](https://app.zeplin.io/project/57c9165e2ccadd3f6341c8a3/screen/59391e72ea340083f7b623ba)
+  * [分享页-试读文章底部悬浮](https://app.zeplin.io/project/57fe0db25a50ccf660d5bd6d/screen/5955be1c44bf569c2c71af49)

@@ -14,7 +14,7 @@ layout: default
 产品架构及各模块间关系：
 
 技术文档：
-* [投研入库文档](documents/desmodus.import)
+* [投研入库文档](documents/desmodus_import)
 
 功能模块：
 * [聚宝问答模块后台](documents/prd_invest_jubaoqa)
